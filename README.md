@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bishalpangeni10" target="blank"><img src="https://img.shields.io/twitter/follow/bishalpangeni10?logo=twitter&style=for-the-badge" alt="bishalpangeni10" /></a> </p>
 
-- 🔭 I’m currently working on **Markup Generator**
+- 🔭 I’m currently working on **Resume Generator**
 
 - 🌱 I’m currently learning **Redux and firebase**
 
